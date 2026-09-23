@@ -132,6 +132,11 @@ Key challenges included:
 
 ## Project Demonstration
 
+### Event Mapping
+
+This view demonstrates how CRF instruments were mapped to scheduled study events within the longitudinal REDCap design.
+
+![REDCap Event Mapping](./images/event-mapping.png)
 A detailed project presentation with screenshots of the REDCap build is
 included in this repository.
 
