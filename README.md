@@ -132,16 +132,53 @@ Key challenges included:
 
 ## Project Demonstration
 
-### Event Mapping
+Below are selected views from the simulated REDCap build highlighting the
+longitudinal study structure, clinical sample traceability, role-based access,
+and clinical reporting.
 
-This view demonstrates how CRF instruments were mapped to scheduled study events within the longitudinal REDCap design.
+### 1. Longitudinal Event Mapping
+
+CRF instruments were mapped to scheduled study events to create a structured
+longitudinal data-collection workflow.
 
 ![REDCap Event Mapping](./images/event-mapping.png)
-A detailed project presentation with screenshots of the REDCap build is
-included in this repository.
 
-The presentation covers the simulated study structure, CRF design, event
-mapping, sample tracking, safety documentation, user permissions, reporting,
-and data-quality controls.
+### 2. Clinical Sample Traceability
+
+A structured sample-identification approach was designed to link participant,
+sample type, study visit, and aliquot information.
+
+This portion of the simulation was informed by my prior hands-on experience
+with clinical sample workflows and sample traceability in clinical research.
+
+![Clinical Sample Tracking](./images/sample-tracking.png)
+
+### 3. Role-Based Access Control
+
+Example user roles and permissions were configured to demonstrate how access
+could be structured according to different study responsibilities.
+
+![REDCap User Access Control](./images/user-access-control.png)
+
+### 4. Clinical Reporting
+
+Example REDCap reports were created to organize sample information and
+demonstrate linkage between clinical records and biospecimen data.
+
+![REDCap Clinical Report](./images/clinical-report.png)
+
+---
+
+## Full Project Presentation
+
+The complete presentation provides additional detail on the simulated study
+design, CRF development, event mapping, safety documentation, sample tracking,
+data-quality controls, user permissions, and reporting.
 
 ### [View Full Project Presentation (PDF)](./REDCap-Phase-I-Clinical-Trial-Simulation.pdf)
+
+---
+
+> **Note:** This project is an independent simulation created for portfolio
+> and educational purposes. It does not contain real participant data,
+> confidential study information, or proprietary clinical-trial documents.
