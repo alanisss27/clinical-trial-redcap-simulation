@@ -138,3 +138,5 @@ included in this repository.
 The presentation covers the simulated study structure, CRF design, event
 mapping, sample tracking, safety documentation, user permissions, reporting,
 and data-quality controls.
+
+### [View Full Project Presentation (PDF)](./REDCap-Phase-I-Clinical-Trial-Simulation.pdf)
